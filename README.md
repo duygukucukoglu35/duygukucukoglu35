@@ -64,7 +64,7 @@
         alt="Firebase"
       />
 
-      <br>
+     
 <img
         src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"
         alt="Netlify"
@@ -97,7 +97,7 @@
 <img
      src="https://github-readme-stats.vercel.app/api?username=duygukucukoglu35&theme=blue-green"
      alt=""
-     /> 
+     /> <br/>
 <img
      src="https://github-readme-stats.vercel.app/api/top-langs/?username=duygukucukoglu35&theme=blue-green"
      alt=""
