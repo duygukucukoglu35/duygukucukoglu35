@@ -75,8 +75,6 @@
         alt="Heroku"
       />
 
-      </br>
-      </br>
 <img
       src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"
       alt="Figma"
@@ -92,7 +90,7 @@
       />
 </div>
 </br>
-<div  align="center"> <img src="https://github.com/SdtAslan/SdtAslan/blob/output/github-contribution-grid-snake.svg" /></div>
+<div  align="center"> <img src="https://github.com/SdtAslan/SdtAslan/blob/output/github-contribution-grid-snake.svg" background="black" /></div>
 <br>
 <h2 align="center"> :bulb: Most Used Language</h2>
 <div  align="center">
@@ -100,9 +98,9 @@
 <img
      src="https://github-readme-stats.vercel.app/api?username=duygukucukoglu35&theme=blue-green"
      alt=""
-     /> </br></br></br>
+     /> 
 <img
      src="https://github-readme-stats.vercel.app/api/top-langs/?username=duygukucukoglu35&theme=blue-green"
      alt=""
-     /> <br/>
+     /> 
 </div>
