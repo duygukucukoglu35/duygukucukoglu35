@@ -1,6 +1,5 @@
 
 ![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)</br>
-## :female-construction-worker::skin-tone-2::wave::skin-tone-2: Hi there, I'm Busra
 <h2 align="center">:rocket:Technical Skills</h2>
 <div align="center">
 <img
