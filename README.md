@@ -1,5 +1,5 @@
 
-<img src="https://giphy.com/gifs/stardust-stardustae-classic-computers-4H3Ii5eLChYul9p7NL" align="center"></br>
+<img src="https://media.giphy.com/media/7FrOU9tPbgAZtxV5mb/giphy-downsized-large.gif" align="center"></br>
 ## :female-construction-worker::skin-tone-2::wave::skin-tone-2: Hi there, I'm Busra
 <font color="pink"> :cat:‍:racing_motorcycle: I'm Electric and Electronic Engineer but I find myself in software. </font>
 </br>
