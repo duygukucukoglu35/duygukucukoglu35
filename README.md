@@ -1,5 +1,5 @@
 
-<img src="https://media.giphy.com/media/7FrOU9tPbgAZtxV5mb/giphy-downsized-large.gif" align="center"></br>
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)]</br>
 ## :female-construction-worker::skin-tone-2::wave::skin-tone-2: Hi there, I'm Busra
 <font color="pink"> :cat:‍:racing_motorcycle: I'm Electric and Electronic Engineer but I find myself in software. </font>
 </br>
