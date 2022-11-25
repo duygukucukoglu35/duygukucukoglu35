@@ -98,7 +98,7 @@
 
   Project Demo       |Libraries and Technologies I use     |Project Preview   
 :-------------------------|-------------------------|-------------------------
-[React Schiphol Airport Flights App](https://reliable-chimera-0baadb.netlify.app/) <h3>[Repo](https://github.com/canocalir/schipol-metrics)</h3> | ReactJS, Styled Components, React Toastify, Official Schipol Api |![schiphol](https://user-images.githubusercontent.com/11324886/200136369-42e3d85c-8f91-4d55-a5df-e8ab93f4549d.gif)
+[Javascript CheckOut Page](https://duygukucukoglu35.github.io/Best-Photos/) <h3>[Repo](https://github.com/duygukucukoglu35/CheckOut-Page/)</h3> | Javascript, SASS | ![cart](https://user-images.githubusercontent.com/109351417/203979260-801abf66-1f38-4991-b435-bd43dc56dff1.gif)
 
 <h2 align="center"> :bulb: Most Used Language</h2>
 <div  align="center">
