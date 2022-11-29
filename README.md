@@ -98,7 +98,7 @@
 
   Project Demo       |Libraries and Technologies I use     |Project Preview   
 :-------------------------|-------------------------|-------------------------
-[Javascript CheckOut Page](https://duygukucukoglu35.github.io/Best-Photos/) <h3>[Repo](https://github.com/duygukucukoglu35/CheckOut-Page/)</h3> | Javascript, SASS | ![checkout_page_1](https://user-images.githubusercontent.com/109351417/204654680-c9abc321-de20-4007-a9c1-9eaca265f857.gif)
+[Javascript CheckOut Page](https://duygukucukoglu35.github.io/Best-Photos/) <h3>[Repo](https://github.com/duygukucukoglu35/CheckOut-Page/)</h3> | Javascript, SASS | !![checkout-3](https://user-images.githubusercontent.com/109351417/204655767-ff0dabcb-4180-4aea-a509-06a1e6ba9f38.gif)
 [Javascript CheckOut Page](https://duygukucukoglu35.github.io/Best-Photos/) <h3>[Repo](https://github.com/duygukucukoglu35/CheckOut-Page/)</h3> | Javascript, SASS | ![cart](https://user-images.githubusercontent.com/109351417/203979260-801abf66-1f38-4991-b435-bd43dc56dff1.gif)
 
 <h2 align="center"> :bulb: Most Used Language</h2>
