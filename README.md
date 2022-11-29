@@ -98,8 +98,8 @@
 
   Project Demo       |Libraries and Technologies I use     |Project Preview   
 :-------------------------|-------------------------|-------------------------
-[Vanilla JS Shopping Cart App](https://github.com/duygukucukoglu35/CheckOut-Page) <h3>[Repo](https://github.com/duygukucukoglu35/CheckOut-Page/)</h3> | Vanilla JS, SASS | !![checkout-3](https://user-images.githubusercontent.com/109351417/204655767-ff0dabcb-4180-4aea-a509-06a1e6ba9f38.gif)
-[Javascript CheckOut Page](https://duygukucukoglu35.github.io/Best-Photos/) <h3>[Repo](https://github.com/duygukucukoglu35/CheckOut-Page/)</h3> | Javascript, SASS | ![cart](https://user-images.githubusercontent.com/109351417/203979260-801abf66-1f38-4991-b435-bd43dc56dff1.gif)
+[Vanilla JS Shopping Cart App](https://duygucheckoutpage.netlify.app/) <h3>[Repo](https://github.com/duygukucukoglu35/CheckOut-Page/)</h3> | Vanilla JS, SASS | !![checkout-3](https://user-images.githubusercontent.com/109351417/204655767-ff0dabcb-4180-4aea-a509-06a1e6ba9f38.gif)
+[AirBnb Clone CSS](https://duygukucukoglu35.github.io/Airbnb/) <h3>[Repo](https://github.com/duygukucukoglu35/Airbnb)</h3> | HTML, PureCSS | ![cart](https://user-images.githubusercontent.com/109351417/203979260-801abf66-1f38-4991-b435-bd43dc56dff1.gif)
 
 <h2 align="center"> :bulb: Most Used Language</h2>
 <div  align="center">
