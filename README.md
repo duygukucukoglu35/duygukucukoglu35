@@ -105,6 +105,7 @@
 [React Language Card](https://timely-cassata-697411.netlify.app/) <h3>[Repo](https://github.com/duygukucukoglu35/Language-Card)</h3> | Vanilla JS, SASS | ![language-card](https://user-images.githubusercontent.com/109351417/205143155-34af9411-f06e-43a9-9681-70e490e4cd80.gif) 
 [Vanilla JS Shopping Cart App](https://duygucheckoutpage.netlify.app/) <h3>[Repo](https://github.com/duygukucukoglu35/CheckOut-Page/)</h3> | Vanilla JS, SASS | ![checkout-3](https://user-images.githubusercontent.com/109351417/204655767-ff0dabcb-4180-4aea-a509-06a1e6ba9f38.gif)
 [Javascript MultiplicationApp](https://duygukucukoglu35.github.io/MultiplicationApp/)<h3>[Repo](https://github.com/duygukucukoglu35/MultiplicationApp/)| Vanilla JS, CSS |![multi](https://user-images.githubusercontent.com/109351417/205141740-187aefa9-abe9-44fb-bafb-78afa3bfb1af.gif)
+[Google Clone CSS ](https://duygukucukoglu35.github.io/Google/) <h3>[Repo](https://github.com/duygukucukoglu35/Google)</h3> | HTML, PureCSS | ![google](https://user-images.githubusercontent.com/109351417/205148691-372fb6c2-c8f5-40f7-80f2-9485a7a148ef.gif)
 [CSS AirBnb Clone ](https://duygukucukoglu35.github.io/Airbnb/) <h3>[Repo](https://github.com/duygukucukoglu35/Airbnb)</h3> | HTML, PureCSS | ![cart](https://user-images.githubusercontent.com/109351417/204657241-e11c0426-b3e6-4f71-9a29-006e6be11341.gif)
 <h2 align="center"> :bulb: Most Used Language</h2>
 <div  align="center">
