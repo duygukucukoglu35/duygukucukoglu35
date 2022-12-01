@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://readme-typing-svg.demolab.com/?lines=;Hello+I'm+Duygu!;&font=Fira%20Code&center=true&width=380&height=50&duration=3000&pause=200">
+ [![Typing Animation Displays My Roles](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello+I'm+Duygu;Welcome+to+my+Github+profile;I'm+Frontend+Developer...;)](https://git.io/typing-svg)
 </p>
 
 
