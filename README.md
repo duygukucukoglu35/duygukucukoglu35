@@ -1,6 +1,5 @@
-<p align="center">
- [![Typing Animation Displays My Roles](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello+I'm+Duygu;Welcome+to+my+Github+profile;I'm+Frontend+Developer...;)](https://git.io/typing-svg)
-</p>
+
+ ![Typing Animation Displays My Roles](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello+I'm+Duygu;Welcome+to+my+Github+profile;I'm+Frontend+Developer...;)](https://git.io/typing-svg)
 
 
 <h2 align="center">:rocket:Technical Skills</h2>
