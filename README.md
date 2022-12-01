@@ -102,6 +102,7 @@
   Project Demo       |Libraries and Technologies I use     |Project Preview   
 :-------------------------|-------------------------|-------------------------
 [React Employee List](https://user-images.githubusercontent.com/109351417/205138112-1673da2d-8edc-403a-ba8c-404f0eb1a347.gif)<h3>[Repo](https://github.com/duygukucukoglu35/Employee-list/)</h3> | ReactJS, SASS Module | ![employee](https://user-images.githubusercontent.com/109351417/205138112-1673da2d-8edc-403a-ba8c-404f0eb1a347.gif)
+
 [React Language Card](https://timely-cassata-697411.netlify.app/)<h3>[Repo](https://github.com/duygukucukoglu35/Language-Card)</h3> | Vanilla JS, | CSS | ![language-card](https://user-images.githubusercontent.com/109351417/205143155-34af9411-f06e-43a9-9681-70e490e4cd80.gif)
 [Vanilla JS Shopping Cart App](https://duygucheckoutpage.netlify.app/) <h3>[Repo](https://github.com/duygukucukoglu35/CheckOut-Page/)</h3> | Vanilla JS, SASS | !![checkout-3](https://user-images.githubusercontent.com/109351417/204655767-ff0dabcb-4180-4aea-a509-06a1e6ba9f38.gif)
 [Javascript MultiplicationApp](https://duygukucukoglu35.github.io/MultiplicationApp/)<h3>[Repo](https://github.com/duygukucukoglu35/MultiplicationApp/)| Vanilla JS, CSS |![multi](https://user-images.githubusercontent.com/109351417/205141740-187aefa9-abe9-44fb-bafb-78afa3bfb1af.gif)
