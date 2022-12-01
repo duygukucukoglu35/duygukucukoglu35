@@ -101,7 +101,7 @@
 
   Project Demo       |Libraries and Technologies I use     |Project Preview   
 :-------------------------|-------------------------|-------------------------
-[React Employee List](https://user-images.githubusercontent.com/109351417/205138112-1673da2d-8edc-403a-ba8c-404f0eb1a347.gif)
+[React Employee List](https://user-images.githubusercontent.com/109351417/205138112-1673da2d-8edc-403a-ba8c-404f0eb1a347.gif)<h3>[Repo](https://github.com/duygukucukoglu35/Employee-list/)</h3> | ReactJS, SASS Module | ![employee](https://user-images.githubusercontent.com/109351417/205138112-1673da2d-8edc-403a-ba8c-404f0eb1a347.gif)
 [Vanilla JS Shopping Cart App](https://duygucheckoutpage.netlify.app/) <h3>[Repo](https://github.com/duygukucukoglu35/CheckOut-Page/)</h3> | Vanilla JS, SASS | !![checkout-3](https://user-images.githubusercontent.com/109351417/204655767-ff0dabcb-4180-4aea-a509-06a1e6ba9f38.gif)
 [CSS AirBnb Clone ](https://duygukucukoglu35.github.io/Airbnb/) <h3>[Repo](https://github.com/duygukucukoglu35/Airbnb)</h3> | HTML, PureCSS | ![cart](https://user-images.githubusercontent.com/109351417/204657241-e11c0426-b3e6-4f71-9a29-006e6be11341.gif)
 <h2 align="center"> :bulb: Most Used Language</h2>
