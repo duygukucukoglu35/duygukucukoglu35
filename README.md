@@ -118,5 +118,5 @@
 <img
      src="https://github-readme-stats.vercel.app/api/top-langs/?username=duygukucukoglu35&theme=blue-green"
      alt=""
-     /> 
+     />  
 </div>
