@@ -100,6 +100,7 @@
 
   Project Demo       |Libraries and Technologies I use     |Project Preview   
 :-------------------------|-------------------------|-------------------------
+[Duygu's Recipes)](https://user-images.githubusercontent.com/109351417/205138112-1673da2d-8edc-403a-ba8c-404f0eb1a347.gif)<h3>[Repo](https://github.com/duygukucukoglu35/duygu-recipe)</h3> | ReactJS, SASS Module | ![duygurecipe](https://user-images.githubusercontent.com/109351417/206288665-a78320c9-e8d4-4be1-9557-d9ace3337c1f.gif)
 [Employee List(Pagination)](https://user-images.githubusercontent.com/109351417/205138112-1673da2d-8edc-403a-ba8c-404f0eb1a347.gif)<h3>[Repo](https://github.com/duygukucukoglu35/Employee-list/)</h3> | ReactJS, SASS Module | ![employee](https://user-images.githubusercontent.com/109351417/205138112-1673da2d-8edc-403a-ba8c-404f0eb1a347.gif)
 [Language Card](https://timely-cassata-697411.netlify.app/) <h3>[Repo](https://github.com/duygukucukoglu35/Language-Card)</h3> | Vanilla JS, SASS | ![language-card](https://user-images.githubusercontent.com/109351417/205143155-34af9411-f06e-43a9-9681-70e490e4cd80.gif) 
 [Task Tracker](https://prismatic-pegasus-6f0fb1.netlify.app/) <h3>[Repo](https://github.com/duygukucukoglu35/TaskTracker)</h3> | Vanilla JS, CSS | ![tasktracker](https://user-images.githubusercontent.com/109351417/205259130-b2080ca6-9195-492b-8948-57242b38ec9c.gif)
