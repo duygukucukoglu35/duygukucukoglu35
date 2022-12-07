@@ -1,6 +1,6 @@
 
  ![Typing Animation Displays My Roles](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello+I'm+a+Duygu;Welcome+to+my+Github+profile;I'm+Frontend+Developer...;)
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="90%" height="150"></br>
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" height="300"></br>
 
 <h2 align="center">:rocket:Technical Skills</h2>
 <div align="center">
