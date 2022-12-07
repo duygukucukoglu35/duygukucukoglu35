@@ -91,7 +91,7 @@
       />
 </div>
 </br>
-<div  align="center"> <img src="https://github.com/SdtAslan/SdtAslan/blob/output/github-contribution-grid-snake.svg" background="black" /></div>
+<div  align="center"> <img src="https://raw.githubusercontent.com/scriptex/github-contributions-snake/snake/github-contribution-grid-snake.svg" /></div>
 <br>
 
 <h2 align="center"> My projects</h2>
