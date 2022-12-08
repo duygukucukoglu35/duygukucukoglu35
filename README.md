@@ -4,9 +4,9 @@
 &emsp;&emsp;&emsp;
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:duygukucukoglu35@gmail.com) &emsp;[![LinkedIn - Duygu Hasates Kucukoglu](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/duygukucukoglu/)&emsp;
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 <h2 align="center">:rocket:Technical Skills</h2>
-<div align="center">
 <div>
     <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/html_aladdinGene.png" width="60" alt="html" />
     <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/css_aladdinGene.png" width="60" alt="css" />
