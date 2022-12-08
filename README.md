@@ -53,6 +53,7 @@
 [MultiplicationApp](https://duygukucukoglu35.github.io/MultiplicationApp/)<h3>[Repo](https://github.com/duygukucukoglu35/MultiplicationApp/)| Vanilla JS, CSS |![multi](https://user-images.githubusercontent.com/109351417/205141740-187aefa9-abe9-44fb-bafb-78afa3bfb1af.gif)
 [Google Clone CSS ](https://duygukucukoglu35.github.io/Google/) <h3>[Repo](https://github.com/duygukucukoglu35/Google)</h3> | HTML, PureCSS | ![google](https://user-images.githubusercontent.com/109351417/205148691-372fb6c2-c8f5-40f7-80f2-9485a7a148ef.gif)
 [AirBnb Clone ](https://duygukucukoglu35.github.io/Airbnb/) <h3>[Repo](https://github.com/duygukucukoglu35/Airbnb)</h3> | HTML, PureCSS | ![cart](https://user-images.githubusercontent.com/109351417/204657241-e11c0426-b3e6-4f71-9a29-006e6be11341.gif)
+ <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 <h2 align="center"> :bulb: Most Used Language</h2>
 <div  align="center">
 <br/>
@@ -61,3 +62,4 @@
      alt=""
      />  
 </div>
+ <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
