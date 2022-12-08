@@ -57,10 +57,6 @@
 <div  align="center">
 <br/>
 <img
-     src="https://github-readme-stats.vercel.app/api?username=duygukucukoglu35&theme=blue-green"
-     alt=""
-     /> <br/>
-<img
      src="https://github-readme-stats.vercel.app/api/top-langs/?username=duygukucukoglu35&theme=blue-green"
      alt=""
      />  
