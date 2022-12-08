@@ -22,7 +22,6 @@
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="60" alt="mui" /> 
     <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/python_aladdinGene.gif" width="60" alt="python" />
     <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/django_aladdinGene.png" width="60" alt="django" /> 
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="60" alt="express" /> 
     <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/svg_aladdinGene.gif" width="60" alt="svg" /> 
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="60" alt="mongodb" />
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="60" alt="graphql" />
